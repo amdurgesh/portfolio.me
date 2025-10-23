@@ -8,7 +8,7 @@ const projects = [
     image: "/projects/pglife.png",
     tags: ["HTML", "CSS", "JavaScript"],
     demoUrl: "https://pgiife.wuaze.com/",
-    githubUrl: "https://github.com/amdurgesh",
+    githubUrl: "https://github.com/amdurgesh/PGlife_Project",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "/projects/todo.png",
     tags: ["JavaScript", "HTML", "CSS"],
     demoUrl: "https://amdurgesh.github.io/Todo-list/",
-    githubUrl: "https://github.com/amdurgesh",
+    githubUrl: "https://github.com/amdurgesh/Todo-list",
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const projects = [
     image: "/projects/weather.png",
     tags: ["JavaScript", "HTML", "CSS"],
     demoUrl: "https://amdurgesh.github.io/Web-Weather/",
-    githubUrl: "https://github.com/amdurgesh",
+    githubUrl: "https://github.com/amdurgesh/Web-Weather",
   },
 ];
 
