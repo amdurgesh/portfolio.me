@@ -25,6 +25,7 @@
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
+    "@react-native-community/cli": "^20.0.2",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.1",
