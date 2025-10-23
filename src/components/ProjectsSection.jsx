@@ -17,7 +17,11 @@ const projects = [
       "A clean and minimal To-Do List web application built to help users manage daily tasks with ease.",
     image: "/projects/todo.png",
     tags: ["JavaScript", "HTML", "CSS"],
+<<<<<<< HEAD
     demoUrl: "https://amdurgesh.github.io/Todo-list/",
+=======
+    demoUrl: "https://amdurgesh.github.io/Todo-list",
+>>>>>>> 743133365f672b1ae7dd99279144169cb8bd9328
     githubUrl: "https://github.com/amdurgesh/Todo-list",
   },
   {
